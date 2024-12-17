@@ -6,4 +6,4 @@ Basically worked by manually getting to the final wave, then just running up, sp
 
 The downside of course being that the setup involves Movement Lvl 5 upgrade, so if you leave it running while you sleep, you have to hold down for 6 hours to get to the boss and kill it. 
 
-I don't recommend running this.
+I don't recommend running this, and it's honestly not much faster than just playing it and having a little fun while you farm the EX upgrades.
